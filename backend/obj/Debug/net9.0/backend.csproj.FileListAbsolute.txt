@@ -1,0 +1,116 @@
+D:\Login Project\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+D:\Login Project\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Login Project\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+D:\Login Project\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+D:\Login Project\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+D:\Login Project\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Login Project\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Login Project\backend\bin\Debug\net9.0\appsettings.Development.json
+D:\Login Project\backend\bin\Debug\net9.0\appsettings.json
+D:\Login Project\backend\bin\Debug\net9.0\backend.staticwebassets.endpoints.json
+D:\Login Project\backend\bin\Debug\net9.0\backend.exe
+D:\Login Project\backend\bin\Debug\net9.0\backend.deps.json
+D:\Login Project\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+D:\Login Project\backend\bin\Debug\net9.0\backend.dll
+D:\Login Project\backend\bin\Debug\net9.0\backend.pdb
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Login Project\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Login Project\backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Login Project\backend\obj\Debug\net9.0\scopedcss\bundle\backend.styles.css
+D:\Login Project\backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\Login Project\backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Login Project\backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\Login Project\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Login Project\backend\obj\Debug\net9.0\backend.csproj.Up2Date
+D:\Login Project\backend\obj\Debug\net9.0\backend.dll
+D:\Login Project\backend\obj\Debug\net9.0\refint\backend.dll
+D:\Login Project\backend\obj\Debug\net9.0\backend.pdb
+D:\Login Project\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+D:\Login Project\backend\obj\Debug\net9.0\ref\backend.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\appsettings.Development.json
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\appsettings.json
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\backend.staticwebassets.endpoints.json
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\backend.exe
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\backend.deps.json
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\backend.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\backend.pdb
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\SimpleLoginPage\backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\scopedcss\bundle\backend.styles.css
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.csproj.Up2Date
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.dll
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\refint\backend.dll
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.pdb
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\ref\backend.dll
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\SimpleLoginPage\backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Login Page\backend\bin\Debug\net9.0\appsettings.Development.json
+D:\Login Page\backend\bin\Debug\net9.0\appsettings.json
+D:\Login Page\backend\bin\Debug\net9.0\backend.staticwebassets.endpoints.json
+D:\Login Page\backend\bin\Debug\net9.0\backend.exe
+D:\Login Page\backend\bin\Debug\net9.0\backend.deps.json
+D:\Login Page\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+D:\Login Page\backend\bin\Debug\net9.0\backend.dll
+D:\Login Page\backend\bin\Debug\net9.0\backend.pdb
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Login Page\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Login Page\backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Login Page\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+D:\Login Page\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Login Page\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Login Page\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+D:\Login Page\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+D:\Login Page\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+D:\Login Page\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Login Page\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Login Page\backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Login Page\backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Login Page\backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Login Page\backend\obj\Debug\net9.0\scopedcss\bundle\backend.styles.css
+D:\Login Page\backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\Login Page\backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Login Page\backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\Login Page\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Login Page\backend\obj\Debug\net9.0\backend.csproj.Up2Date
+D:\Login Page\backend\obj\Debug\net9.0\backend.dll
+D:\Login Page\backend\obj\Debug\net9.0\refint\backend.dll
+D:\Login Page\backend\obj\Debug\net9.0\backend.pdb
+D:\Login Page\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+D:\Login Page\backend\obj\Debug\net9.0\ref\backend.dll
