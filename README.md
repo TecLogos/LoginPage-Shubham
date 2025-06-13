@@ -48,7 +48,7 @@ dotnet restore
 dotnet run
 ```
 
-- By default, the backend runs on [http://localhost:5000](http://localhost:5000) (or as configured in `appsettings.json`).
+- By default, the backend runs on [http://localhost:5249](http://localhost:5249) (or as configured in `appsettings.json`).
 
 ---
 
