@@ -1,5 +1,6 @@
 import { useState, useContext } from 'react';
 import { AuthContext } from '../context/AuthContext';
+import { Link } from 'react-router-dom';
 
 export default function LoginForm() {
     const [username, setUsername] = useState('');
@@ -47,11 +48,17 @@ export default function LoginForm() {
                 />
                 <button
                     type="submit"
-                    className="w-full  py-2 bg-gradient-to-r from-blue-600 to-blue-400 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-blue-500 transition-colors"
+                    className="w-full py-2 bg-gradient-to-r from-blue-600 to-blue-400 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-blue-500 transition-colors"
                 >
                     Login
                 </button>
                 {error && <p className="text-red-500 text-center mt-4">{error}</p>}
+                <p className="text-center mt-6 text-gray-600">
+                    Don't have an account?{" "}
+                    <Link to="/register" className="text-blue-600 hover:underline font-semibold">
+                        Please Register
+                    </Link>
+                </p>
             </form>
         </div>
     );
